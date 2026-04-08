@@ -1,6 +1,5 @@
-## Hi there 👋
+# Jorge Caballero Diaz
 
-Jorge Caballero
 Me llamo Jorge Caballero y soy programador y técnico de sistemas con más de 7 años de experiencia en entornos profesionales exigentes, participando en proyectos de desarrollo, mantenimiento y soporte de aplicaciones en producción, especialmente en contextos corporativos y de alta disponibilidad.
 
 A lo largo de mi trayectoria he trabajado con distintos lenguajes y tecnologías, lo que me ha permitido desarrollar una base sólida como programador y una gran capacidad de adaptación. Tengo experiencia en desarrollo y mantenimiento de aplicaciones en Java, SQL y entornos UNIX/Linux, así como conocimientos prácticos en Python, C#, JavaScript y desarrollo web (HTML, CSS y JavaScript), que continúo reforzando mediante formación y práctica personal.
